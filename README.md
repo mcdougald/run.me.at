@@ -9,7 +9,7 @@
 
 Benchmarks by me.
 
-run.me.at is a first-party benchmark bench. Trevor runs the suites on hardware he owns and discloses, then publishes each number with the machine, the toolchain versions, the cache state and the command that produced it, so a run can be repeated rather than believed. It covers LLMs, ML models and the TypeScript toolchain. It is not a leaderboard, nothing on it is vendor-attested, and nothing is for sale.
+run.me.at is a first-party benchmark bench. I run the suites on hardware I own and disclose, then publishes each number with the machine, the toolchain versions, the cache state and the command that produced it, so a run can be repeated rather than believed. It covers LLMs, ML models and the TypeScript toolchain. It is not a leaderboard, nothing on it is vendor-attested, and nothing is for sale.
 
 **Live:** [run.me.at](https://run.me.at)
 
@@ -41,7 +41,7 @@ run.me.at is a first-party benchmark bench. Trevor runs the suites on hardware h
 
 ## Part of the me.at family
 
-run.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+run.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
