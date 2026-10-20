@@ -1,0 +1,7 @@
+{
+  "name": "run-me-at",
+  "description": "My reproducible benchmarks of LLMs, ML models, and the TypeScript, Node, and Next.js toolchain",
+  "homepage": "https://run.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
